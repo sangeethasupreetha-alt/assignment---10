@@ -18,7 +18,7 @@ const Products = [
     price: 500, 
     category: "Clothing",
     inStock: false, 
-    image: T-Shirt
+    image: TShirt
 },
 
 { 
