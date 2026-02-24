@@ -5,6 +5,6 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/assignment10-e-commerce-product-dashboard-using-react-tailwind-1/',
+  base: '/assignment---10/',
   plugins: [react(), tailwindcss()],
 })
