@@ -1,6 +1,13 @@
 import React from "react";
 import ProductCard from "./ProductCard";
 
+import Laptop from "../assets/Laptop.webp";
+import TShirt from "../assets/TShirt.jpg";
+import Book from "../assets/Book.jpg";
+import Headphone from "../assets/Headphone.jpg";
+import Shoes from "../assets/Shoes.jpg";
+import Notebook from "../assets/Notebook.jpg";
+
 const ProductsLists = ({ selectedCategory }) => {
 const Products = [
 { 
