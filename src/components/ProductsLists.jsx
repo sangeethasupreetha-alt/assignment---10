@@ -14,7 +14,7 @@ const Products = [
 
 { 
     id: 2, 
-    title: "T-Shirt", 
+    title: "TShirt", 
     price: 500, 
     category: "Clothing",
     inStock: false, 
